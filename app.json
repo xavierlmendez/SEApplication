@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SEApp",
+    "slug": "SEApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SEApp"
+}
